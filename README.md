@@ -1,6 +1,6 @@
-## Meu nome é Caio Programas! 👋
+## Olá, bem vindo! 👋
 
-Tenho 19 aninhos, lindo 😍 e sou estudante de Computer Science. Estudo na C.H.I., o maior grupo de estudos do Brasil e, quem sabe, do mundo todo. (quem viu o fim da live 200 sabe, hahahahaha)
+Tenho 19 aninhos, lindo 😍 e sou estudante de Computer Science. Estudo na C.H.I., o maior grupo de estudos do Brasil e, quem sabe, do mundo todo...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckaeiront&layout=compact&theme=blueberry&show_icons=true)
 ## Skills que o pai está domando como bestas feras para servirem ao meu propósito:
