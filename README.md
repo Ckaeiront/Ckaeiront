@@ -2,7 +2,11 @@
 
 Tenho 19 aninhos, lindo 😍 e sou estudante de Computer Science. Estudo na C.H.I., o maior grupo de estudos do Brasil e, quem sabe, do mundo todo...
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ckaeiront&layout=compact&theme=blueberry&show_icons=true)
+<div style="display: flex; justify-content: center;">
+  <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=Ckaeiront&hide=contribs,prs&theme=github_dark_dimmed" />
+  <img style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckaeiront&hide_progress=true&theme=github_dark_dimmed&layout=compact" />
+</div>
+
 ## Skills que o pai está domando como bestas feras para servirem ao meu propósito:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
