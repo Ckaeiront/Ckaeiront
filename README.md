@@ -2,7 +2,7 @@
 
 Tenho 19 aninhos, lindo 😍 e sou estudante de Computer Science. Estudo na C.H.I., o maior grupo de estudos do Brasil e, quem sabe, do mundo todo...
 
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=Ckaeiront&hide=contribs,prs&theme=github_dark_dimmed" />
   <img style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ckaeiront&hide_progress=true&theme=github_dark_dimmed&layout=compact" />
 </div>
