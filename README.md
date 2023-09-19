@@ -1,13 +1,13 @@
 ## Olá, bem vindo! 👋
 
-Tenho 19 aninhos, lindo 😍 e sou estudante de Computer Science. Estudo na C.H.I., o maior grupo de estudos do Brasil e, quem sabe, do mundo todo...
+Tenho 19 anos e sou estudante de Computer Science. Estudo na C.H.I., o maior grupo de estudos do Brasil.
 
 <div align="center">
   <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=caiocsm-sudo&hide=contribs,prs&theme=github_dark_dimmed" />
   <img style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsm-sudo&hide_progress=true&theme=github_dark_dimmed&layout=compact" />
 </div>
 
-## Skills que o pai está domando como bestas feras para servirem ao meu propósito:
+## Skills:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
