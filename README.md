@@ -4,7 +4,7 @@ Tenho 19 anos e sou estudante de Computer Science. Estudo na C.H.I., o maior gru
 
 <div align="center">
   <img style="display: block" src="https://github-readme-stats.vercel.app/api?username=caiocsm-sudo&hide=contribs,prs&theme=github_dark_dimmed" />
-  <img style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsm-sudo&hide_progress=true&theme=github_dark_dimmed&layout=compact" />
+  <img style="display: block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocsm-sudo&hide_progress=false&theme=github_dark_dimmed&layout=compact" />
 </div>
 
 ## Skills:
